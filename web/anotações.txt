@@ -1,0 +1,14 @@
+
+- formato (propriedades) dos botões
+
+- ? significa que a propriedade é opciona
+
+- classeName representa a classe do html e css
+
+- p-(2) - representa 8px - multiplica por 
+
+- Componentes: funções que retornam HTML, sempre com a primeira letra maiúscula
+
+-  text é chamado de propriedade no TS
+
+- propriedade group faz com que todos os elementos dentro de uma tag possam ser modificados;
